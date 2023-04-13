@@ -1,0 +1,3 @@
+﻿  Composite.cpp
+C:\Users\User\source\repos\Composite\Composite\Composite.cpp(75,14): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Composite.vcxproj -> C:\Users\User\source\repos\Composite\x64\Debug\Composite.exe

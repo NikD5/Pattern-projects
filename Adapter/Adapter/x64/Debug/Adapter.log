@@ -1,0 +1,3 @@
+﻿  Adapter.cpp
+C:\Users\User\source\repos\Adapter\Adapter\Adapter.cpp(61,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Adapter.vcxproj -> C:\Users\User\source\repos\Adapter\x64\Debug\Adapter.exe
